@@ -133,3 +133,4 @@ Phred值是一种表示碱基识别错误率的指标，通过一种概率模型
 -   因此，如果FastQC的报告中显示有明显的adapter残留，建议在进行任何进一步的数据分析之前，使用适当的工具去除这些接头序列。常用的去接头工具包括Trim Galore、Trimmomatic、Cutadapt等，这些工具能够识别并切除测序数据中的adapter序列，帮助提高数据的质量和可用性。
 
 为防走失，也请各位顺手关注一下"FLOWHUB"
+![公众号](./assets/qrcode.jpg)
